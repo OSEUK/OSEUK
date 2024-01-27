@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OSEUK)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OSEUK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=오세욱)](https://solved.ac/dhtpdnr2000/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhtpdnr2000)](https://solved.ac/dhtpdnr2000/)
